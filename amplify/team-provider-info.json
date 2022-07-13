@@ -1,0 +1,15 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-searchgenieapp-dev-195411-authRole",
+      "UnauthRoleArn": "arn:aws:iam::138281345102:role/amplify-searchgenieapp-dev-195411-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::138281345102:role/amplify-searchgenieapp-dev-195411-authRole",
+      "Region": "ap-south-1",
+      "DeploymentBucketName": "amplify-searchgenieapp-dev-195411-deployment",
+      "UnauthRoleName": "amplify-searchgenieapp-dev-195411-unauthRole",
+      "StackName": "amplify-searchgenieapp-dev-195411",
+      "StackId": "arn:aws:cloudformation:ap-south-1:138281345102:stack/amplify-searchgenieapp-dev-195411/4d60d7f0-01ee-11ed-b112-0268166b02d6",
+      "AmplifyAppId": "d2zs9xeqau7yi3"
+    }
+  }
+}

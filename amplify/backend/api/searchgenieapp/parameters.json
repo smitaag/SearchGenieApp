@@ -1,0 +1,6 @@
+{
+  "AppSyncApiName": "searchgenieapp",
+  "DynamoDBBillingMode": "PAY_PER_REQUEST",
+  "DynamoDBEnableServerSideEncryption": false,
+  "AuthModeLastUpdated": "2022-07-13T07:17:29.191Z"
+}

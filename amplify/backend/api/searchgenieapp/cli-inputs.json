@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "serviceConfiguration": {
+    "apiName": "searchgenieapp",
+    "serviceName": "AppSync",
+    "gqlSchemaPath": "/home/smita/workspace/Projects/search-genie-app/amplify/backend/api/searchgenieapp/schema.graphql",
+    "defaultAuthType": {
+      "mode": "API_KEY",
+      "expirationTime": 365,
+      "apiKeyExpirationDate": "2023-07-13T07:17:23.421Z",
+      "keyDescription": "genieAppAPIKey"
+    },
+    "conflictResolution": {},
+    "additionalAuthTypes": []
+  }
+}
